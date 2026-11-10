@@ -10,10 +10,10 @@ each component lives in its own repository for independent development.
 | Component | Description | Stack | Repo |
 |---|---|---|---|
 | 🧠 **App** | Flutter control app (Manual + Autonomous modes) | Flutter, Dart | [rover-app](https://github.com/dangnguyen06-ee/Autonomous_Rover_App) |
-| 🔌 **Firmware** | Onboard control & sensor fusion | ESP32-S3, C++ | [rover-firmware](https://github.com/willbeupdated) |
-| ⚡ **PCB** | Main control board, motor driver, sensor breakout | KiCad | [rover-pcb]([https://github.com/YOUR_USERNAME/rover-pcb](https://github.com/dangnguyen06-ee/Autonomous_Rover_PCB)) |
+| 🔌 **Firmware** | Onboard control & sensor fusion | ESP32-S3, C++ | [rover-firmware](https://dangnguyen06-ee/Autonomous_Rover_Firmware) |
+| ⚡ **PCB** | Main control board, motor driver, sensor breakout | KiCad | [rover-pcb](https://github.com/dangnguyen06-ee/Autonomous_Rover_PCB) |
 | 🧊 **3D Model** | Chassis, sensor mounts, enclosure | Fusion 360, STL | [rover-3d](https://github.com/willbeupdated) |
-| 👁️ **Computer Vision** | Gesture recognition pipeline | Python, MediaPipe | [rover-cv]([https://github.com/YOUR_USERNAME/rover-cv](https://github.com/dangnguyen06-ee/Autonomous_Rover_CV)) |
+| 👁️ **Computer Vision** | Gesture recognition pipeline | Python, MediaPipe | [rover-cv](https://github.com/dangnguyen06-ee/Autonomous_Rover_CV) |
 
 ---
 
